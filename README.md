@@ -13,7 +13,7 @@ Oh! I know. You definitively want to know my qualifications, right?
 
 Anyways, I have none!
 I code about as well as that one tuple that sits in your blog's backend that you don't use because you never ended up needing it.
-Hopefully, your dictionaries have some knowledge of python and html.
+Hopefully, your tuples have some knowledge of python and html.
 Thankfully, that isn't really a major issue. In fact:
 
 > The gods do not protect fools,
