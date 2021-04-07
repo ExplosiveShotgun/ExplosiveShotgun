@@ -21,7 +21,7 @@ Thankfully, that isn't really a major issue. In fact:
 
 I'm reasonably sure I'm a capable fool.
 
-#### What about the miscellaneous stuff no one caress about?
+#### What about the miscellaneous stuff no one actually cares about?
 
 - Favorite IDE: PyCharm community, by JetBrains.
 - Favorite font: JetBrains Mono, also by JetBrains.
