@@ -1,13 +1,32 @@
-### Hi there.
+# Hi there.
+Welcome to my underground lair.
 
-<!--
-**ExplosiveShotgun42/ExplosiveShotgun42** is the README.md for ExplosiveShotgun42's github 
+### Who the heck are you?
+My name is Joseph Anderson.
+I live in Paris, France, and was born in Boston, MA.
+Coding is sort of my hobby, I pretty much just write stuff™ that probably isn't very useful but I find fun, or it just pops into my head one day.
 
-Welcome to my repository.
-My name is Joseph (Calder) Anderson, I make programs, more as a hobby than anything else.
-I'm a student at ASP in Paris, France.
-Incidentally, I speak both French and English, so~ bienvenue!
+### Ok...?
+Oh! I know. You definitively want to know my qualifications, right?
 
-Favorite IDE: PyCharm community, by JetBrains.
-Favorite font: JetBrains Mono, also by JetBrains.
--->
+...right?
+
+Anyways, I have none!
+I code about as well as that one dictionary that sits in the your blog's backend that you don't use because you never ended up needing it.
+Hopefully, your dictionaries have some knowledge of python and html.
+Thankfully, that isn't really a major issue. In fact:
+
+> The gods do not protect fools,
+> fools are protected by more capable fools.
+
+I'm reasonably sure I'm a capable fool.
+
+#### What about the miscellaneous stuff no one caress about?
+
+- Favorite IDE: PyCharm community, by JetBrains.
+- Favorite font: JetBrains Mono, also by JetBrains.
+
+- Stance on the oxford comma: Absolutely, completely and unquestionably necessary *depending on the context.*
+- Stance on whatever argument the loves or the haters of the oxford comma are dredging up right now: I really *don't care.*
+
+###### —Joseph Anderson, idiot in charge
