@@ -19,14 +19,14 @@ Thankfully, that isn't really a major issue. In fact:
 > The gods do not protect fools,
 > fools are protected by more capable fools.
 
-I'm reasonably sure I'm a capable fool.
+I'm reasonably sure I'm a capable fool. Except 
 
 #### What about the miscellaneous stuff no one actually cares about?
 
-- Favorite IDE: PyCharm community, by JetBrains.
+- Favorite IDE: VS Code, by microsoft.
 - Favorite font: JetBrains Mono, also by JetBrains.
 
 - Stance on the oxford comma: Absolutely, completely and unquestionably necessary *depending on the context.*
 - Stance on whatever argument the loves or the haters of the oxford comma are dredging up right now: I really *don't care.*
 
-###### —Joseph Anderson, idiot in charge
+###### —The Idiot in Charge
